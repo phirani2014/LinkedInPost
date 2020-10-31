@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SharePostsTutorial.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LinkedinToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AQWfIUN0iEobmSaDNEfI95MJ5_Z0Vgj8GjIsP15ojCxJcIo_3hsR8IGjhBVL_jaezuAKvIRrx8Xcr0wI8oda0UhjAn9NeELgW-NyDp1PVCcRJfNj0VVQFNmcGBZuvHLa9Q8O-D5tJdcechcHi44yFMy1UllRTjXInPBSZgxaL3HwKt-lsxfw3PAJ2JUa6aDuOEGYDd1SlZ3QcRprv3Vvw60PVVEJgXyZOmlC4Yov8OYFcKFkVvlM7XylAvwTiNcyWHRpebjx6Rf3srnyBWrGPLEPbrBJto4n4ZShIfkINVVqkWgovt368QDApMjs7OmMN-_ztTc2MpVDALCIc6TCGPvJJnt5yA</Value>
+    </Setting>
+    <Setting Name="HashTags" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> #letshaveachat #motivation #mindfulness #motivationalquotes #quotes #mindset #inspiration #goals #positivity #believe #success #inspirationalquotes #inspire #positivevibes #love #life</Value>
+    </Setting>
+    <Setting Name="Morning" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Have a lovely morning everyone</Value>
+    </Setting>
+    <Setting Name="Noon" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Have a great afternoon all</Value>
+    </Setting>
+    <Setting Name="Evening" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Have a great evening all</Value>
+    </Setting>
+    <Setting Name="LinkedinAuthor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">KZk_nGbskx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

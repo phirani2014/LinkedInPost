@@ -1,0 +1,10 @@
+C:\Users\Priyant Hirani\source\repos\SharePostsTutorial\SharePostsTutorial\bin\Debug\SharePostsTutorial.exe.config
+C:\Users\Priyant Hirani\source\repos\SharePostsTutorial\SharePostsTutorial\bin\Debug\SharePostsTutorial.exe
+C:\Users\Priyant Hirani\source\repos\SharePostsTutorial\SharePostsTutorial\bin\Debug\SharePostsTutorial.pdb
+C:\Users\Priyant Hirani\source\repos\SharePostsTutorial\SharePostsTutorial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Priyant Hirani\source\repos\SharePostsTutorial\SharePostsTutorial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Priyant Hirani\source\repos\SharePostsTutorial\SharePostsTutorial\obj\Debug\SharePostsTutorial.csprojAssemblyReference.cache
+C:\Users\Priyant Hirani\source\repos\SharePostsTutorial\SharePostsTutorial\obj\Debug\SharePostsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Priyant Hirani\source\repos\SharePostsTutorial\SharePostsTutorial\obj\Debug\SharePostsTutorial.csproj.CopyComplete
+C:\Users\Priyant Hirani\source\repos\SharePostsTutorial\SharePostsTutorial\obj\Debug\SharePostsTutorial.exe
+C:\Users\Priyant Hirani\source\repos\SharePostsTutorial\SharePostsTutorial\obj\Debug\SharePostsTutorial.pdb
